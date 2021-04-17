@@ -1,6 +1,6 @@
 Руби
 
-![Unit Tests & Lint](https://github.com/VadimVadimVadim1337/RUBY/workflows/Unit%20Tests%20&%20Lint/badge.svg)
+![Unit Tests & Lint](https://github.com/VadimVadimVadim1337/RUBY2/workflows/Unit%20Tests%20&%20Lint/badge.svg)
 
 
 ## Install
